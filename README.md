@@ -1,0 +1,2 @@
+# JPA-CRUD-PROJECT
+JPA CRUD operations
